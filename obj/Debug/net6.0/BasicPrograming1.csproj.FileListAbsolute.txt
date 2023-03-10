@@ -1,0 +1,15 @@
+C:\Users\Arindam shukla\source\repos\BasicPrograming1\BasicPrograming1\bin\Debug\net6.0\BasicPrograming1.exe
+C:\Users\Arindam shukla\source\repos\BasicPrograming1\BasicPrograming1\bin\Debug\net6.0\BasicPrograming1.deps.json
+C:\Users\Arindam shukla\source\repos\BasicPrograming1\BasicPrograming1\bin\Debug\net6.0\BasicPrograming1.runtimeconfig.json
+C:\Users\Arindam shukla\source\repos\BasicPrograming1\BasicPrograming1\bin\Debug\net6.0\BasicPrograming1.dll
+C:\Users\Arindam shukla\source\repos\BasicPrograming1\BasicPrograming1\bin\Debug\net6.0\BasicPrograming1.pdb
+C:\Users\Arindam shukla\source\repos\BasicPrograming1\BasicPrograming1\obj\Debug\net6.0\BasicPrograming1.csproj.AssemblyReference.cache
+C:\Users\Arindam shukla\source\repos\BasicPrograming1\BasicPrograming1\obj\Debug\net6.0\BasicPrograming1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Arindam shukla\source\repos\BasicPrograming1\BasicPrograming1\obj\Debug\net6.0\BasicPrograming1.AssemblyInfoInputs.cache
+C:\Users\Arindam shukla\source\repos\BasicPrograming1\BasicPrograming1\obj\Debug\net6.0\BasicPrograming1.AssemblyInfo.cs
+C:\Users\Arindam shukla\source\repos\BasicPrograming1\BasicPrograming1\obj\Debug\net6.0\BasicPrograming1.csproj.CoreCompileInputs.cache
+C:\Users\Arindam shukla\source\repos\BasicPrograming1\BasicPrograming1\obj\Debug\net6.0\BasicPrograming1.dll
+C:\Users\Arindam shukla\source\repos\BasicPrograming1\BasicPrograming1\obj\Debug\net6.0\refint\BasicPrograming1.dll
+C:\Users\Arindam shukla\source\repos\BasicPrograming1\BasicPrograming1\obj\Debug\net6.0\BasicPrograming1.pdb
+C:\Users\Arindam shukla\source\repos\BasicPrograming1\BasicPrograming1\obj\Debug\net6.0\BasicPrograming1.genruntimeconfig.cache
+C:\Users\Arindam shukla\source\repos\BasicPrograming1\BasicPrograming1\obj\Debug\net6.0\ref\BasicPrograming1.dll
